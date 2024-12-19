@@ -1,1 +1,2 @@
 # -Chat-with-PDF-Using-RAG-Pipeline-
+"Chat with PDF Using RAG Pipeline" is an application that enables users to interact with PDF documents in a natural and intuitive way by leveraging Retrieval-Augmented Generation (RAG). The RAG pipeline combines information retrieval techniques with large language models (LLMs) to provide accurate and context-rich responses to user queries based on the content of uploaded PDFs.
